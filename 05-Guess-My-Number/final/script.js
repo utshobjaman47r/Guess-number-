@@ -253,9 +253,9 @@ document.querySelector('.score').textContent = 10;
 
 
 
+// section 2
 
 
-// section2 
 let secretNumber = Math.trunc(Math.random()*20) + 1  
 // document.querySelector('.number').textContent = secretNumber
 let score =  20;
